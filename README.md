@@ -4,7 +4,7 @@ I'm a front-end developer passionate about clean, responsive design and efficien
 Currently learning and building projects with HTML, CSS, JavaScript, and React.
 
 ### 🚀 Skills
-- HTML5, CSS3, JavaScript, React
+- HTML5, CSS3, JavaScript, React, Figma
 - Responsive Web Design
 - Git & GitHub
 
