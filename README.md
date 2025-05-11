@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Ahmed Mohamed
 
-<!--
-**ahmedmohamed22-hub/ahmedmohamed22-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer passionate about clean, responsive design and efficient code.  
+Currently learning and building projects with HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML5, CSS3, JavaScript, React
+- Responsive Web Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Get In Touch
+- 📧 am953297@gmail.com
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~yourID)
+- [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mohamed-3044891b3/)
